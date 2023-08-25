@@ -1,0 +1,38 @@
+html {
+    background: center/2% url("../img/taco_animated_958x862.png");
+    font-size: 22px;
+}
+
+body {
+    background-color: whitesmoke;
+    /* min-height: 100vh; */
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 1rem;
+    border: 1px solid #333;
+}
+
+th,
+td,
+caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
+
+
+
+h1 {
+    margin-top: 1px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
